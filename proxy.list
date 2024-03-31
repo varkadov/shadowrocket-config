@@ -1,5 +1,5 @@
-# AUTHOR: Dmitry Lisin
-# REPO: https://github.com/dlisin/shadowrocket-config
+# AUTHOR: Vadim Arkadov
+# REPO: https://github.com/varkadov/shadowrocket-config
 
 DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,browserleaks.com
